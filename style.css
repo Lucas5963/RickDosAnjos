@@ -104,10 +104,15 @@ section {
 }
 
 .caixa-sobre .sobre-container .sobre-texto h3:hover {
-    font-size: 10rem;
+    font-size: 6.2rem;
     color: var(--main-color);
     opacity: 0.3;
     transition: 1s;
+}
+
+p{
+    font-size: 2rem;
+    color: var(--main-color);
 }
 
 .social {
@@ -228,11 +233,16 @@ button {
     }
 
     .caixa-sobre .sobre-container .sobre-texto h3 {
-        font-size: 4rem;
+        font-size: 2rem;
+    }
+
+    p{  
+        gap:1rem;
+        font-size: 8px;
     }
 
     .social {
-        font-size: 3rem;
+        font-size:2rem;
     }
 
     .modal {
