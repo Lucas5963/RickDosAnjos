@@ -257,6 +257,7 @@ button {
         padding: 1rem;
         max-height: 90vh;
         overflow-y: auto;
+        margin-left: -15%;
     }
 
     .modal iframe {
