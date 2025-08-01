@@ -2,7 +2,7 @@ const modal = document.querySelector(".modal")
 const mascara = document.querySelector(".mascara-modal")
 
 function mostarModal() {
-    modal.style.left = "50%"
+    modal.style.left = "65%"
     mascara.style.visibility = "visible"
 }
 function esconderModal() {
